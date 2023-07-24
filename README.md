@@ -1,5 +1,3 @@
 ## Hey! I'm Rich.
 
-I'm a front-end engineer from Bristol in the U.K. I currently work for [Mutual](https://mutual.agency/).
-
-You can find me on Twitter - [@richjg\_](https://twitter.com/richjg_)
+I'm a Software Engineer for [Moneyhub]([https://mutual.agency/](https://www.moneyhub.com/)) from Bristol, U.K.
